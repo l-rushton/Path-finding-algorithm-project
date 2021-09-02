@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1587432821 source:c:\users\john\documents\louis\second_year_c_programming\theproject\citylist.c
+	<stdlib.h>
+	<stdio.h>
+	"shortPath.h"
+
+1587422857 c:\users\john\documents\louis\second_year_c_programming\theproject\shortpath.h
+
+1596488799 source:c:\users\john\documents\louis\second_year_c_programming\theproject\energylist.c
+	<stdlib.h>
+	<stdio.h>
+	"shortPath.h"
+
+1587431118 source:c:\users\john\documents\louis\second_year_c_programming\theproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587433901 source:c:\users\john\documents\louis\second_year_c_programming\theproject\importlists.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"shortPath.h"
+
